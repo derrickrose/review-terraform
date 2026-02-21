@@ -1,3 +1,5 @@
-# get certified terraform 
+# learn terraform
 
+## branches
 
+- 02_01 : terraform plan
